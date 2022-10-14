@@ -1,0 +1,33 @@
+@import "~antd/dist/antd.css";
+
+.paddingData {
+  padding-inline-start: 0;
+}
+.App {
+  margin-left: 1em;
+  width: 50%;
+  margin: auto;
+}
+.titleName {
+  text-align: center;
+}
+
+.fileBox,
+.forksBox {
+  margin-top: 1em;
+  border: 1px solid grey;
+  padding: 1em;
+}
+
+.numberFiles {
+  font-size: 1em;
+  color: #f50;
+}
+
+.loaderStyle {
+  margin: 30px;
+  text-align: center;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+}
